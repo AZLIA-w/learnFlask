@@ -19,3 +19,5 @@ class User (db.Model,UserMixin):
     first_name = db.Column(db.String(150))
     # 关联此user的note，以list存储
     notes = db.relationship('Note')
+
+
