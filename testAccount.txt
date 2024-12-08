@@ -1,0 +1,3 @@
+email = lyy@gmail.com
+FirsName = lyy
+password = 1234567
